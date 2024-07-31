@@ -100,6 +100,9 @@
 .buy{
     position:absolute;
     top: 19.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     left:5em;
     width:15em;
     height:3em;
@@ -110,5 +113,7 @@
 
 .buy p{
     background-color:#35705A;
-
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    
 }
